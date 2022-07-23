@@ -1,3 +1,3 @@
-# pokedex
+# Pokédex
 
-Pokedex Responsiva
+Pokédex Responsiva
